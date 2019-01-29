@@ -5,4 +5,6 @@ def prime?(array)
     return true
   else
     return false
+  end
 end
+
